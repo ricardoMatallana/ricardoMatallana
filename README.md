@@ -1,6 +1,9 @@
-### Hi 👋, I'm Ricardo Matallana
+<h1 align="center">Hi 👋, I'm Ricardo Matallana</h1>
+<h3 align="center">A passionate full stack developer from Miami</h3>
 
-  ![numbers](https://github.com/ricardoMatallana/ricardoMatallana/assets/164824520/b2b5f92e-539c-42c1-aee6-13764816c28e)
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jpg22002&label=Profile%20views&color=0e75b6&style=flat" alt="jpg22002" /> </p>
 
 
 🔭 Currently Working On: 
@@ -12,6 +15,8 @@
 🤝 Looking for Guidance: Seeking mentorship and opportunities to further enhance my skills in full-stack development and machine learning. Interested in roles that challenge me and allow me to grow my expertise in these areas, particularly in real-world, project-based settings.
 
 👨‍💻 Projects Showcase: All my projects, including 'Job Quest', AI tools for the Knight Foundation, and various academic assignments, are available on
+
+💬 Ask Me About My journey developing 'Job Quest', my experience at Netflix Pathways  and Knight Foundation, and my approach to solving complex problems in software development. Feel free to inquire about specific projects, challenges faced, and how I've applied my technical skills to create impactful solutions.
 
 📫 Contact Me: rickymatallana10@gmail.com | 954-643-6199
 
