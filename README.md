@@ -20,4 +20,5 @@ Hi 👋, I'm Ricardo Matallana
 ⚡ Fun Fact: In my free time, I enjoy exploring the latest trends in technology and dabbling in creative coding projects. My curiosity and passion for tech drive me to be the best I can be.
 
 
+![giphy](https://github.com/ricardoMatallana/ricardoMatallana/assets/164824520/17658b33-33e0-4327-9cd2-e1cf289941ad)
 
